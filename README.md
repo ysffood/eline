@@ -5,4 +5,3 @@ GIT creating branch is quick and simple.
 GIT branch fix conflict.
 I am working now.
 It is test branch conflict.
-
